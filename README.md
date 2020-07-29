@@ -5,3 +5,5 @@
 # 2- Put in your server.sfg ensure rdx_feedjob
 
 # Have fun
+
+# All credits are from the originalk script creator
